@@ -1,2 +1,2 @@
 developcommit
-feaure1commit
+feature1commit
